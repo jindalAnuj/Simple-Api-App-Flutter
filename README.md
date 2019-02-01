@@ -1,6 +1,13 @@
-# flutter_simple_api_app
+# Flutter Simple Api App
 
-A new Flutter application.
+Basic App in Flutter to which parse [Jsonplaceholder](https://jsonplaceholder.typicode.com/photos/) api 
+Api Consumption in Flutter
+
+Demo 
+
+<img src="Art\photo_2019-02-01_16-46-19.jpg " alt="drawing" style="width:200px;">
+<img src="Art\photo_2019-02-01_16-46-16.jpg" alt="drawing" style="width:200px;"/>
+
 
 ## Getting Started
 
