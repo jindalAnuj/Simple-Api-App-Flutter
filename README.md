@@ -5,8 +5,8 @@ Api Consumption in Flutter
 
 Demo 
 
-<img src="Art\photo_2019-02-01_16-46-19.jpg " alt="drawing" style="width:200px;">
-<img src="Art\photo_2019-02-01_16-46-16.jpg" alt="drawing" style="width:200px;"/>
+<img src="Art\photo_2019-02-01_16-46-19.jpg " alt="drawing" style="height:200px;">
+<img src="Art\photo_2019-02-01_16-46-16.jpg" alt="drawing" style="height:200px;"/>
 
 
 ## Getting Started
